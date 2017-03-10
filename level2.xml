@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+
+<Level2>
+
+<!-- NPC Layout for Game -->
+
+
+<GameAsset angle="0.0f" y="100.0f" x="100.0f" name="Red Octorok"/>
+
+<GameAsset angle="-180.0f" y="200.0f" x="0.0f" name="Red Octorok"/>
+
+<GameAsset angle="0.0f" y="50.0f" x="100.0f" name="Blue Octorok"/>
+
+<GameAsset angle="270.0f" y="0.0f" x="-25.0f" name="Blue Octorok"/>
+
+<GameAsset angle="270.0f" y="0.0f" x="-75.0f" name="Blue Octorok"/>
+
+<GameAsset angle="270.0f" y="-100.0f" x="-35.0f" name="Blue Octorok"/>
+
+<GameAsset angle="270.0f" y="-40.0f" x="-125.0f" name="Red Octorok"/>
+
+<GameAsset angle="0.0f" y="100.0f" x="150.0f" name="Blue Leever"/>
+
+<GameAsset angle="0.0f" y="200.0f" x="5.0f" name="Red Leever"/>
+
+<GameAsset angle="0.0f" y="50.0f" x="150.0f" name="Blue Leever"/>
+
+<GameAsset angle="270.0f" y="300.0f" x="450.0f" name="Red Leever"/>
+
+<GameAsset angle="0.0f" y="0.0f" x="-125.0f" name="Red Leever"/>
+
+<GameAsset angle="0.0f" y="100.0f" x="85.0f" name="Blue Leever"/>
+
+<GameAsset angle="270.0f" y="40.0f" x="175.0f" name="Blue Leever"/>
+
+</Level2>
